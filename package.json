@@ -1,0 +1,39 @@
+{
+  "name": "production_ai",
+  "version": "1.0.0",
+  "description": "A web-based production automation system that offers a range of features, including script analysis, scheduling, budgeting, resource management, and more.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ADream2023/Production_AI.git"
+  },
+  "keywords": [
+    "film",
+    "production",
+    "script",
+    "analysis",
+    "scheduling",
+    "budgeting",
+    "resource",
+    "management",
+    "web",
+    "application",
+    "software",
+    "solution",
+    "project",
+    "management",
+    "movie-making"
+  ],
+  "author": "ADream",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ADream2023/Production_AI/issues"
+  },
+  "homepage": "https://github.com/ADream2023/Production_AI#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
